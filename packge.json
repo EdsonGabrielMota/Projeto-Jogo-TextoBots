@@ -1,0 +1,12 @@
+{
+    "name": "TextoBots",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "node src/main.js"
+    },
+    "dependencies": {
+      "inquirer": "^8.1.2"
+    }
+  }
+  
